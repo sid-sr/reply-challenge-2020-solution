@@ -16,6 +16,6 @@ Solution to the [2020 Reply Challenge (Standard Edition)](https://challenges.rep
 ### Team Members:
 
 * Siddharth Sriraman
-* Vanathi G
+* [Vanathi G](https://github.com/vanathi-g)
 * Aditya Krishna P 
 * Venkataraman N
